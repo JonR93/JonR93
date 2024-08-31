@@ -8,6 +8,8 @@ Software Engineer
 
 * 🌍  I'm based in Connecticut
 
+I am a senior full-stack software engineer with 8 years of experience specializing in the Java and React ecosystems. However, I have proven to be able to learn any stack quickly. I excel in building and enhancing web applications, optimizing performance, and improving deployment strategies. My expertise includes gathering and analyzing requirements, providing accurate estimates, and ensuring seamless integration with internal teams or external systems. I am committed to enhancing web accessibility, automating workflows, and monitoring production systems to maintain high-quality standards.
+
 ### Skills
 
 
